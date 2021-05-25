@@ -4,7 +4,7 @@ Tugas Seleksi Ca-IRK
 ## Deskripsi
 Tahukah kalian, kalau soal kuis Mata Kuliah Matematika Diskrit tahun kalian hampir semuanya dibuat oleh asisten IRK? Setiap menjelang kuis, setiap asisten Matkul Matematika Diskrit akan membuat beberapa soal beserta pembahasannya sesuai materi yang akan dikuiskan saat itu. Kemudian, nantinya oleh dosen dipilih soal yang cukup baik dan mungkin akan dilakukan penyesuaian. 
 
-Kini, giliran kalian untuk akan membuat soal-soal tersebut. Kali ini, sebagai task terakhir untuk mendulang score, kita tantang kalian untuk membuat soal Matematika Diskrit beserta pembahasannya.
+Kini, giliran kalian untuk akan membuat soal-soal tersebut. Kali ini, kita tantang kalian untuk membuat soal Matematika Diskrit beserta pembahasannya.
 
 ## Spesifikasi
 Buatlah 10 soal Matematika Diskrit beserta pembahasan dari soal tersebut dalam dokumen berformat pdf. Berikut ini adalah ketentuan dari soal dan pembahasan tersebut.
