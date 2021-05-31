@@ -24,8 +24,8 @@ Buatlah 10 soal Matematika Diskrit beserta pembahasan dari soal tersebut dalam d
   - Presentasi jawaban (kerunutan, penggunaan bahasa)
   
 ## Mekanisme Pengumpulan
-- Format penamaan dokumen: "ProblemMakerMatdis-[NIM].pdf" (sertakan nama dan nim juga di halaman pertama dokumennya)
-- Dokumen dikirim ke email 13518058@std.stei.itb.ac.id dengan subject "Problem Maker Matdis - [NIM]" dalam bentuk pdf. Bila sudah dikirim, tinggal nunggu dinilai saja.
+- Format penamaan dokumen: "ProblemMaker-[NIM].pdf" (sertakan nama dan nim juga di halaman pertama dokumennya)
+- Dokumen dikirim ke email 13518058@std.stei.itb.ac.id dengan subject "Problem Maker - [NIM]" dalam bentuk pdf. Bila sudah dikirim, tinggal nunggu dinilai saja.
 
 ## Lain-lain
 - Deadline : TBA (kemungkinan 1 minggu an sebelum tanggal terakhir seleksi)
