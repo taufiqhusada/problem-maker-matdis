@@ -25,9 +25,9 @@ Buatlah 10 soal Matematika Diskrit beserta pembahasan dari soal tersebut dalam d
   
 ## Mekanisme Pengumpulan
 - Format penamaan dokumen: "ProblemMaker-[NIM].pdf" (sertakan nama dan nim juga di halaman pertama dokumennya)
-- Dokumen dikirim ke email 13518058@std.stei.itb.ac.id dengan subject "Problem Maker - [NIM]" dalam bentuk pdf. Bila sudah dikirim, tinggal nunggu dinilai saja.
+- Dokumen dikirim ke email 13518058@std.stei.itb.ac.id dengan subject "Problem Maker - [NIM]" dalam bentuk pdf.
+- Khusus yang mengumpulkan setelah scoreboard di-freeze harap chat line ku juga (ID line: taufiq1255), takutnya ga kebaca emailnya 
 
 ## Lain-lain
-- Deadline : TBA (kemungkinan 1 minggu an sebelum tanggal terakhir seleksi)
 - Segala pertanyaan dapat ditanyakan lewat line (id: taufiq1255)
 - Apabila ada perubahan, akan disampaikan di grup Ca-IRK
